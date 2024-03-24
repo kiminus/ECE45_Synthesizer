@@ -2,7 +2,7 @@
 
 An introduction video is avaliable here: 
 
-<iframe width="560" height="315" src="https://youtu.be/CzS-EHRCxSY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![link to video](https://img.youtube.com/vi/CzS-EHRCxSY/0.jpg)](https://www.youtube.com/watch?v=CzS-EHRCxSY)
 
 ### overview and tips
 
